@@ -10,6 +10,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * Sentiment Analysis using MLPs: 
   * [Code](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Sentiment%20Analysis%20MLP/Sentiment_Classification_Projects.ipynb)
 * Bike Sharing Project: 
+  * Implement NN from scratch:
+    * Load & prepare the data: Normalize features, create training, validation and test data.
+    * Implement forward and backward propagation.
   * [Code](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb)
 
 ## Convolutional Neural Networks.
@@ -18,6 +21,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * Data Augmentation & Transfer Learning: 
   * [Code](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/tree/master/Convolutional%20Neural%20Networks/Data%20augmentation%20%26%20Transfer%20Learning)
 * Dog Breed Prediction Project: 
+  * Created CNN model from scratch and achieved at least 5% test accuracy in the first 5 epochs using data augmentation.
+  * Used transfer learning of Xception model, and data augmentation to achieve 83% test accuracy. 
+  * Xception paper: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
   * [Code](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Convolutional%20Neural%20Networks/Dog%20Breed%20Project/dog_app.ipynb)
   
  ## Recurrent Neural Networks.
