@@ -15,9 +15,11 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * [Sentiment Analysis using MLPs](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Sentiment%20Analysis%20MLP/Sentiment_Classification_Projects.ipynb): 
 
 * [Bike Sharing Project](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb): 
-  * Implement NN from scratch:
-    * Load & prepare the data: Normalize features, create training, validation and test data.
-    * Implement forward and backward propagation.
+  * Load & prepare the data: 
+    * Normalize features.
+    * Created training, validation and test data.
+  * Implement forward and backward propagation.
+  * Trained and tested accuracy.
 
 ## Convolutional Neural Networks.
 * [CNN Autoencoder](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Convolutional%20Neural%20Networks/CNN%20Autoencoder/Convolutional_Autoencoder.ipynb): 
