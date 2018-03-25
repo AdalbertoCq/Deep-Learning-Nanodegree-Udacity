@@ -30,8 +30,12 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 
 ## Convolutional Neural Networks.
 * [CNN Autoencoder](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Convolutional%20Neural%20Networks/CNN%20Autoencoder/Convolutional_Autoencoder.ipynb): 
+  * Usage of CNNs for encoding-decoding.
+  * Denoising images.
 
 * [Data Augmentation & Transfer Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/tree/master/Convolutional%20Neural%20Networks/Data%20augmentation%20%26%20Transfer%20Learning): 
+  * Explored data augmentation of CIFAR-10 with ImageDataGenerator from Keras, and impact of it over training.
+  * Reviewed transfer learning on VGG-16, bottleneck feature extraccion and new FC layers over them.
 
 * [Dog Breed Prediction Project](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Convolutional%20Neural%20Networks/Dog%20Breed%20Project/dog_app.ipynb): 
   * Created CNN model from scratch and achieved at least 5% test accuracy in the first 5 epochs using data augmentation.
