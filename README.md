@@ -13,6 +13,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Comparison to Xavier initialization.     
     
 * [Sentiment Analysis using MLPs](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Sentiment%20Analysis%20MLP/Sentiment_Classification_Projects.ipynb): 
+  * Predict Positive/Negative sentiment over movie reviews.
 
 * [Bike Sharing Project](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb): 
   * Load & prepare the data: 
