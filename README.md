@@ -14,6 +14,12 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     
 * [Sentiment Analysis using MLPs](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Sentiment%20Analysis%20MLP/Sentiment_Classification_Projects.ipynb): 
   * Predict Positive/Negative sentiment over movie reviews.
+  * Preprocess data:
+    * Create vocabulary, word frequency.
+    * Analyze word-freq/sentiment review ratio.
+    * Bit encoding per word.
+  * Built the neural network.
+  * Reviewed limitations with word freq instead of word-sentiment relationship. 10% Validation accuracy improvement.
 
 * [Bike Sharing Project](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb): 
   * Load & prepare the data: 
