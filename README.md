@@ -49,10 +49,17 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Xception paper: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
   
  ## Recurrent Neural Networks.
- * Character-Level LSTM Network:
-  * Implemented using TensorFlow.
-  * 
-  
+* [Character-Level LSTM Network](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Convolutional%20Neural%20Networks/):
+ * Implemented using TensorFlow.
+ * Developed a Character-Wise RNN sequence predictor. A two 2 layer depth LSTM with Tx=50 time sequence length. With a 128 dimension for the LSTM memory cell, and a vocabulary size 83.
+ * Steps:
+    * Data processing for minibatches. 
+    * Built LSTM model.
+    * Optimizer & Gradient clipping.
+    * Checkpoint training. 
+    * Sequence generation with output sampling.
+    
+
  ## Generative Adversarial Neural Networks.
  
  ## Deep Reinforcement Learning.
