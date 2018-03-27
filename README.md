@@ -49,7 +49,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Xception paper: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
   
 ## Recurrent Neural Networks.
-* [Character-Level LSTM Network](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb): 
+* [Character-Level LSTM Network](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/Character%20wise%20LSTM/Anna_KaRNNa.ipynb): 
   * Implemented in TensorFlow.
   * Developed a Character-Wise RNN sequence predictor. A two 2 layer depth LSTM with Tx=50 time sequence length. With a 128 dimension for the LSTM memory cell, and a vocabulary size 83.
   * Steps:
@@ -59,7 +59,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Checkpoint training. 
     * Sequence generation with output sampling.    
  
-* [Embeddings and Word2vec](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb): 
+* [Embeddings and Word2vec](Placeholder): 
   * Implemented in TensorFlow.
 
  ## Generative Adversarial Neural Networks.
