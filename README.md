@@ -58,6 +58,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Optimizer & Gradient clipping.
     * Checkpoint training. 
     * Sequence generation with output sampling.    
+ 
+* [Embeddings and Word2vec](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Bike%20Sharing%20MLP%20model/Your_first_neural_network.ipynb): 
+  * Implemented in TensorFlow.
 
  ## Generative Adversarial Neural Networks.
  
