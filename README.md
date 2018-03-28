@@ -61,6 +61,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
  
 * [Embeddings and Word2vec](Placeholder): 
   * Implemented in TensorFlow.
+  
+* [Sentiment Prediction](Placeholder): 
+  * Implemented in TensorFlow.
 
  ## Generative Adversarial Neural Networks.
  
