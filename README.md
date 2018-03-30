@@ -59,7 +59,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Checkpoint training. 
     * Sequence generation with output sampling.    
  
-* [Embeddings and Word2vec](Placeholder): 
+* [Embeddings and Word2vec](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/Embeddings%20and%20Word2vec/Skip-Gram_word2vec.ipynb): 
   * Implemented in TensorFlow.
   * Implemented and trained a Skip-gram Word Embedding matrix.
   * Used Subsampling, negative sampling.
