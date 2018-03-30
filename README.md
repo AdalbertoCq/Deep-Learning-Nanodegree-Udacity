@@ -61,6 +61,12 @@ This is the repository for my implementations on mayor projects of the Deep Lear
  
 * [Embeddings and Word2vec](Placeholder): 
   * Implemented in TensorFlow.
+  * Implemented and trained a Skip-gram Word Embedding matrix.
+  * Used Subsampling, negative sampling.
+  * Visualization of word vectors using T-SNE.
+  * Based on papers:
+    * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+    * [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
   
 * [Sentiment Prediction](Placeholder): 
   * Implemented in TensorFlow.
