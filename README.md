@@ -72,6 +72,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Implemented in TensorFlow.
   * Sentiment prediction using Word Embedding on LSTM.
 
+* [The Simpsons Script Generation](Placeholder): 
+  * Implemented in TensorFlow.
+
  ## Generative Adversarial Neural Networks.
  
  ## Deep Reinforcement Learning.
