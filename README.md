@@ -68,8 +68,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
     * [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
   
-* [Sentiment Prediction](Placeholder): 
+* [Sentiment Prediction](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/Sentiment%20Prediction/Sentiment_RNN.ipynb): 
   * Implemented in TensorFlow.
+  * Sentiment prediction using Word Embedding on LSTM.
 
  ## Generative Adversarial Neural Networks.
  
