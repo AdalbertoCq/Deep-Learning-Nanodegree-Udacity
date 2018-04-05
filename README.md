@@ -72,8 +72,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Implemented in TensorFlow.
   * Sentiment prediction using Word Embedding on LSTM.
 
-* [The Simpsons Script Generation](Placeholder): 
+* [The Simpsons Script Generation](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/Simpsons%20TV-Script%20generation/dlnd_tv_script_generation.ipynb): 
   * Implemented in TensorFlow.
+  * Language sequence generation on a LSTM network using Word Embedding.
 
  ## Generative Adversarial Neural Networks.
  
