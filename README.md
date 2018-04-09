@@ -4,6 +4,11 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 [Syllabus](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
 ## Neural Networks.
+* Mathematical demonstrations:
+  * [Backpropagation](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/backprop.PDF)
+  * [Softmax & Cross-Entropy gradients](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/cross_entropy_softmax.PDF)
+  * [Batch Normalization gradient](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/batch_norm_backprop.PDF)
+  
 * [Weight Initilization review](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Weight%20Initialization/weight_initialization.ipynb): 
   * Implemented using TensorFlow.
   * Implication of different initializations over Cost function and Gradient descent. 
@@ -12,7 +17,14 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Uniform distribution, saled uniform.
     * Normal distribution, truncated distribution.
     * Comparison to Xavier initialization.     
-    
+
+* [Batch Normalization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Batch%20Normalization/Batch_Normalization_Exercises.ipynb):
+  * Implemented on TensorFlow.
+  * Used in fully connected and convolutional layers.
+  * Two levels of implementation:
+      * Higher level of abstraction, tf.layers.batch_normalization: TensorFlow takes care of the normalization for training and inference, control dependencies through tf.control_dependencies() and tf.GraphKeys.UPDATE_OPS.
+      * Lower level, tf.nn.batch_normalization: Explicit implementation instanciating gamma, beta, and calculating the batch/population mean, variance. Control training and inference through tf.cond().
+  
 * [Sentiment Analysis using MLPs](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Neural%20Networks/Sentiment%20Analysis%20MLP/Sentiment_Classification_Projects.ipynb): 
   * Implemented on Numpy/Python.
   * Predict Positive/Negative sentiment over movie reviews.
@@ -49,6 +61,11 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Xception paper: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
   
 ## Recurrent Neural Networks.
+* Mathematical demonstrations:
+  * [RNN Backpropagation through time](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/rnn_through_time_backprop.pdf)
+  * [LSTM Backpropagation through time](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/lstm_through_time_backprop.pdf)
+  * [GRU Backpropagation through time](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/gru_through_time_backprop.pdf)
+  
 * [Character-Level LSTM Network](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Recurrent%20Neural%20Networks/Character%20wise%20LSTM/Anna_KaRNNa.ipynb): 
   * Implemented in TensorFlow.
   * Developed a Character-Wise RNN sequence predictor. A two 2 layer depth LSTM with Tx=50 time sequence length. With a 128 dimension for the LSTM memory cell, and a vocabulary size 83.
