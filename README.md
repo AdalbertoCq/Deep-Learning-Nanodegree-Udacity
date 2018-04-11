@@ -94,7 +94,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Language sequence generation on a LSTM network using Word Embedding.
 
 ## Generative Adversarial Neural Networks.
-* [GAN Personal Notes](Placeholder)
+* [GAN Personal Notes](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/GAN%20notes.pdf)
 * [GAN over MNIST db](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/GAN%20MNIST/Intro_to_GANs_Exercises.ipynb): 
   * Implemented in TensorFlow.
   * GAN implementation for the MNIST database.
