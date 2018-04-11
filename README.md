@@ -93,12 +93,23 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Implemented in TensorFlow.
   * Language sequence generation on a LSTM network using Word Embedding.
 
- ## Generative Adversarial Neural Networks.
- * [GAN over MNIST db](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/GAN%20MNIST/Intro_to_GANs_Exercises.ipynb): 
-   * Implemented in TensorFlow.
-   * GAN implementation for the MNIST database.
-   * [Generative Adversarial Networks Paper](https://arxiv.org/pdf/1406.2661.pdf)
+## Generative Adversarial Neural Networks.
+* [GAN over MNIST db](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/GAN%20MNIST/Intro_to_GANs_Exercises.ipynb): 
+  * Implemented in TensorFlow.
+  * GAN implementation for the MNIST database.
+  * [Generative Adversarial Networks Paper](https://arxiv.org/pdf/1406.2661.pdf)
  
-  * [DCGAN](Placeholder): Deep Convolutional GAN: 
+* [DCGAN](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/DCGAN%20SVHN%20/DCGAN_Exercises.ipynb): Deep Convolutional GAN: 
+  * Implemented in TensorFlow.
+  * DCGAN implementation for the Street View House Number database.
+  * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper](https://arxiv.org/abs/1511.06434)
  
- ## Deep Reinforcement Learning.
+## Deep Reinforcement Learning.
+* [Frozen Lake](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Frozen%20Lake/Dynamic_Programming.ipynb):
+  * Implementation on Frozen Lake enviroment.
+  * Covers Finite Markov Processes and Dynamic Programming:
+    * Policy Evaluation.
+    * Policy Improvement.
+    * Policy Iteration. 
+    * Truncated Policy Evaluation.
+    * Value Iteration.
