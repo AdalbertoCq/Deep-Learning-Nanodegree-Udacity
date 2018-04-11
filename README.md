@@ -94,6 +94,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Language sequence generation on a LSTM network using Word Embedding.
 
 ## Generative Adversarial Neural Networks.
+* [GAN Personal Notes](Placeholder)
 * [GAN over MNIST db](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/GAN%20MNIST/Intro_to_GANs_Exercises.ipynb): 
   * Implemented in TensorFlow.
   * GAN implementation for the MNIST database.
@@ -105,6 +106,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper](https://arxiv.org/abs/1511.06434)
  
 ## Deep Reinforcement Learning.
+* [Reinforcement Learning Personal Notes](Placeholder)
 * [Frozen Lake](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Frozen%20Lake/Dynamic_Programming.ipynb):
   * Implementation on Frozen Lake enviroment.
   * Reinforcement Learning by Richard S. Sutton and Andrew G. Barto: Chapters 3 & 4
