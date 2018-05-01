@@ -100,7 +100,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * GAN implementation for the MNIST database.
   * [Generative Adversarial Networks Paper](https://arxiv.org/pdf/1406.2661.pdf)
  
-* [DCGAN](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/DCGAN%20SVHN%20/DCGAN_Exercises.ipynb): Deep Convolutional GAN: 
+* [DCGAN](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/DCGAN%20SVHN%20/DCGAN.ipynb): Deep Convolutional GAN: 
   * Implemented in TensorFlow.
   * DCGAN implementation for the Street View House Number database.
   * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper](https://arxiv.org/abs/1511.06434)
