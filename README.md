@@ -116,7 +116,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Policy Iteration. 
     * Truncated Policy Evaluation.
     * Value Iteration.
-* [BlackJack](Placeholder):
+* [BlackJack](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/BlackJack/Monte_Carlo.ipynb):
   * Implementation on BlackJack enviroment.
   * Reinforcement Learning by Richard S. Sutton and Andrew G. Barto: Chapter 5.
   * Monte Carlo Methods:
