@@ -124,3 +124,11 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Monte Carlo Control.
     * GLIE MC Control(Greedy in the limit with Infinite Exploration).
     * Constant aplha-GLIE MC Control.
+* [CliffWalking](placeholder):
+  * Implementation on CliffWalking enviroment.
+  * Reinforcement Learning by Richard S. Sutton and Andrew G. Barto: Chapter 6.
+  * Temporal-Difference Methods:
+    * Temporal-Difference Predictions: State-value and Action-value functions.
+    * Sarsa.
+    * Q-Learning (Sarsamax).
+    * Expected Sarsa.
