@@ -124,7 +124,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Monte Carlo Control.
     * GLIE MC Control(Greedy in the limit with Infinite Exploration).
     * Constant aplha-GLIE MC Control.
-* [CliffWalking](placeholder):
+* [CliffWalking](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/CliffWalking/Temporal_Difference.ipynb):
   * Implementation on CliffWalking enviroment.
   * Reinforcement Learning by Richard S. Sutton and Andrew G. Barto: Chapter 6.
   * Temporal-Difference Methods:
