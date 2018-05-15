@@ -132,3 +132,6 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Sarsa.
     * Q-Learning (Sarsamax).
     * Expected Sarsa.
+* Reinforcement Learning in cotinuous spaces:
+  * [Discretization]()
+  * [Tile Coding]()
