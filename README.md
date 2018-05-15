@@ -133,5 +133,5 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Q-Learning (Sarsamax).
     * Expected Sarsa.
 * Reinforcement Learning in cotinuous spaces:
-  * [Discretization]()
+  * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
   * [Tile Coding]()
