@@ -132,6 +132,10 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Sarsa.
     * Q-Learning (Sarsamax).
     * Expected Sarsa.
+* [Taxi-v2](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/tree/master/Reinforcement%20Learning/taxi-v2):
+    * Implemented agent to solve the OpenAI gym of [Taxi](https://gym.openai.com/envs/Taxi-v2/).
+    * Tested Q-Learning, Sarsa, Expected Sarsa.
+    * Best Score over 100 episode average: 9.359 on Q-Learning.
 * Reinforcement Learning in cotinuous spaces:
   * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
   * [Tile Coding]()
