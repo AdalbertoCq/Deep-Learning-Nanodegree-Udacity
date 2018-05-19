@@ -13,8 +13,8 @@ class Agent:
         """
         self.nA = nA
         self.Q = defaultdict(lambda: np.zeros(self.nA))
-        self.alpha = 0.5
-        self.gamma = 0.9
+        self.alpha = 0.20
+        self.gamma = 1
 
     def select_action(self, state, epsilon):
         """ Given the state, select an action.
@@ -31,10 +31,18 @@ class Agent:
         action_max = np.argmax(self.Q[state])
         probabilities = np.ones(self.nA) * epsilon / self.nA
         probabilities[action_max] = 1 - epsilon + epsilon / self.nA
-        selected_action = np.random.choice(a=np.arange(self.nA), p=probabilities)
-        return selected_action
+        return np.random.choice(a=np.arange(self.nA), p=probabilities)
 
-    def step(self, state, action, reward, next_state, done):
+    def expected_reward(self, next_state, epsilon):
+        probabilities = np.ones(self.nA) * epsilon / self.nA
+        action_max = np.argmax(self.Q[next_state])
+        probabilities[action_max] = 1 - epsilon + epsilon / self.nA
+        expected = 0
+        for action, prob in enumerate(probabilities):
+            expected += prob * self.Q[next_state][action]
+        return expected
+
+    def step(self, state, action, reward, next_state, done, epsilon):
         """ Update the agent's knowledge, using the most recently sampled tuple.
 
         Params
@@ -45,4 +53,13 @@ class Agent:
         - next_state: the current state of the environment
         - done: whether the episode is complete (True or False)
         """
-        self.Q[state][action] = self.Q[state][action] + self.alpha * (reward + self.gamma * np.max(self.Q[next_state]) - self.Q[state][action])
+        # Q-Leaning.
+        #         self.Q[state][action] = self.Q[state][action] + self.alpha*(reward + self.gamma*np.max(self.Q[next_state]) - self.Q[state][action])
+
+        # Sarsa expected.
+        expected = self.expected_reward(next_state, epsilon)
+        self.Q[state][action] = self.Q[state][action] + self.alpha * (reward + self.gamma * expected - self.Q[state][action])
+
+        # Sarsa
+#         next_action = self.select_action(next_state, epsilon)
+#         self.Q[state][action] = self.Q[state][action] + self.alpha*(reward + self.gamma*self.Q[next_state][next_action] - self.Q[state][action])
