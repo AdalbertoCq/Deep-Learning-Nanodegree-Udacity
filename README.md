@@ -138,8 +138,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * Best Score over 100 episode average rewards: 9.359 on Q-Learning.
 * Reinforcement Learning in cotinuous spaces:
   * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
-  * [Tile Coding]()
+  * [Tile Coding](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Tile_Coding.ipynb)
 * [Deep Q-Learning]():
-  * Implementations of Neural Network TensorFlow and Experience Replay memory.
+  * Deep Q-Learning implementation.
+  * Implementations of Neural Network Action-Value approximator in TensorFlow and Experience Replay memory.
   * Solved [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/): "CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials."
 
