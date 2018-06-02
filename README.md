@@ -139,3 +139,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * Reinforcement Learning in cotinuous spaces:
   * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
   * [Tile Coding]()
+* [Deep Q-Learning]():
+  * Implementations of Neural Network TensorFlow and Experience Replay memory.
+  * Solved [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/): "CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials."
+
