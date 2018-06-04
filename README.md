@@ -140,7 +140,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
   * [Tile Coding](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Tile_Coding.ipynb)
 * [Deep Q-Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Deep%20Q-Learning%20Cart-Pole-v0/Deep%20Q-learning%20cart_pole_v0.ipynb):
-  * Based on [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
+  * Based on [V.Mnih et al. "Playing Atari with Deep Reinforcement Learning", 2013](https://arxiv.org/pdf/1312.5602.pdf)
   * Deep Q-Learning implementation.
   * Implementations of Neural Network Action-Value approximator in TensorFlow.
   * Implemented experience replay memory and fixed Q targets.
