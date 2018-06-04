@@ -140,7 +140,9 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
   * [Tile Coding](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Tile_Coding.ipynb)
 * [Deep Q-Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Deep%20Q-Learning%20Cart-Pole-v0/Deep%20Q-learning%20cart_pole_v0.ipynb):
+  * Based on [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
   * Deep Q-Learning implementation.
-  * Implementations of Neural Network Action-Value approximator in TensorFlow and Experience Replay memory.
+  * Implementations of Neural Network Action-Value approximator in TensorFlow.
+  * Implemented experience replay memory and fixed Q targets.
   * Solved [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/): "CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials."
 
