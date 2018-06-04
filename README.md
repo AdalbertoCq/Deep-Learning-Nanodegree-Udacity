@@ -139,10 +139,14 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * Reinforcement Learning in cotinuous spaces:
   * [Discretization](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Discretization.ipynb)
   * [Tile Coding](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/RL%20in%20continuous%20spaces/Tile_Coding.ipynb)
-* [Deep Q-Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Deep%20Q-Learning%20Cart-Pole-v0/Deep%20Q-learning%20cart_pole_v0.ipynb):
+* [Deep Q-Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Deep%20Q-Learning%20Cart-Pole-v0/deep_q_learning_cartpole_v0.ipynb):
   * Based on [V.Mnih et al. "Playing Atari with Deep Reinforcement Learning", 2013](https://arxiv.org/pdf/1312.5602.pdf)
   * Deep Q-Learning implementation.
-  * Implementations of Neural Network Action-Value approximator in TensorFlow.
+  * Implementations of neural network action-value approximator in TensorFlow.
   * Implemented experience replay memory and fixed Q targets.
-  * Solved [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/): "CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials."
-
+  
+* [Double Deep Q-Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Double%20Deep%20Q-Learning%20Cart-Pole-v0%20copy/double_deep_Q_learning_cart_pole_v0.ipynb):
+  * Based on [H.Hasselt et al. "Deep Reinforcement Learning with Double Q-learning", 2013](https://arxiv.org/pdf/1509.06461.pdf)
+  * Double Deep Q-Learning implementation.
+  * Implemented experience replay memory and fixed Q targets.
+  * Implemented two action-value neural network approximators, for action decisiona and fixed target.
