@@ -146,7 +146,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Implemented experience replay memory and fixed Q targets.
   
 * [Double Deep Q-Learning](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Double%20Deep%20Q-Learning%20Cart-Pole-v0%20copy/double_deep_Q_learning_cart_pole_v0.ipynb):
-  * Based on [H.Hasselt et al. "Deep Reinforcement Learning with Double Q-learning", 2013](https://arxiv.org/pdf/1509.06461.pdf)
+  * Based on [H.Hasselt et al. "Deep Reinforcement Learning with Double Q-learning", 2015](https://arxiv.org/pdf/1509.06461.pdf)
   * Double Deep Q-Learning implementation.
   * Implemented experience replay memory and fixed Q targets.
   * Implemented two action-value neural network approximators, for action decisiona and fixed target.
