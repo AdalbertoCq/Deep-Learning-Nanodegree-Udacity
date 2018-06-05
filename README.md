@@ -149,4 +149,4 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Based on [H.Hasselt et al. "Deep Reinforcement Learning with Double Q-learning", 2015](https://arxiv.org/pdf/1509.06461.pdf)
   * Double Deep Q-Learning implementation.
   * Implemented experience replay memory and fixed Q targets.
-  * Implemented two action-value neural network approximators, for action decisiona and fixed target.
+  * Implemented two action-value neural network approximators, for action decision and fixed target.
