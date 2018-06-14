@@ -107,8 +107,10 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * [DCGAN for Face image generation](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/DCGAN%20SVHN%20/DCGAN.ipynb): Deep Convolutional GAN: 
   * Implemented in TensorFlow.
   * DCGAN implementation to generate faces, trained over [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
-  * Based on [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper](https://arxiv.org/abs/1511.06434)
- 
+  * Based on papers:
+    * [A.Radford et al "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper"](https://arxiv.org/abs/1511.06434)
+    * [T.Salimans et al. "Improved Techniques for Training GANs", 2016](https://arxiv.org/pdf/1606.03498v1.pdf)
+    
 ## Deep Reinforcement Learning.
 * [Reinforcement Learning Personal Notes](Placeholder)
 * [Frozen Lake](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Frozen%20Lake/Dynamic_Programming.ipynb):
