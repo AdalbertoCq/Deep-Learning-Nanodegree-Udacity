@@ -98,12 +98,16 @@ This is the repository for my implementations on mayor projects of the Deep Lear
 * [GAN over MNIST db](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/GAN%20MNIST/Intro_to_GANs_Exercises.ipynb): 
   * Implemented in TensorFlow.
   * GAN implementation for the MNIST database.
-  * [Generative Adversarial Networks Paper](https://arxiv.org/pdf/1406.2661.pdf)
+  * Based on [Generative Adversarial Networks Paper](https://arxiv.org/pdf/1406.2661.pdf)
  
 * [DCGAN](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/DCGAN%20SVHN%20/DCGAN.ipynb): Deep Convolutional GAN: 
   * Implemented in TensorFlow.
   * DCGAN implementation for the Street View House Number database.
-  * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper](https://arxiv.org/abs/1511.06434)
+  
+* [DCGAN for Face image generation](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Generative%20Adversarial%20Networks/DCGAN%20SVHN%20/DCGAN.ipynb): Deep Convolutional GAN: 
+  * Implemented in TensorFlow.
+  * DCGAN implementation to generate faces, trained over [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+  * Based on [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Paper](https://arxiv.org/abs/1511.06434)
  
 ## Deep Reinforcement Learning.
 * [Reinforcement Learning Personal Notes](Placeholder)
