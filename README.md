@@ -112,7 +112,7 @@ This is the repository for my implementations on mayor projects of the Deep Lear
     * [T.Salimans et al. "Improved Techniques for Training GANs", 2016](https://arxiv.org/pdf/1606.03498v1.pdf)
     
 ## Deep Reinforcement Learning.
-* [Reinforcement Learning Personal Notes](Placeholder)
+* [Reinforcement Learning Personal Notes](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/reinforcement_learning_notes.PDF)
 * [Frozen Lake](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Frozen%20Lake/Dynamic_Programming.ipynb):
   * Implementation on Frozen Lake enviroment.
   * Reinforcement Learning by Richard S. Sutton and Andrew G. Barto: Chapters 3 & 4
