@@ -156,3 +156,15 @@ This is the repository for my implementations on mayor projects of the Deep Lear
   * Double Deep Q-Learning implementation.
   * Implemented experience replay memory and fixed Q targets.
   * Implemented two action-value neural network approximators, for action decision and fixed target.
+  
+* [Deep Deterministic Policy Gradient](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/MountainCar%20Actor-Critic/ddpg_mountain_car.ipynb):
+  * Based on [T.Lillicrap et al. "Continuous control with deep reinforcement learning", 2016](https://arxiv.org/abs/1509.02971)
+  * Deep Deterministic Policy Gradient implementation.
+  * Implemented action repeat, experience replay memory and fixed targets for Actor/Critic Networks with soft update.
+  * MountainCarContinuous-v0 solved after 70 episodes
+  
+* [Quadracopter Agent](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Quadcopter%20Project%20Actor-Critic%20RL/Quadcopter_Project.ipynb):
+  * Deep Deterministic Policy Gradient implementation based on [T.Lillicrap et al. "Continuous control with deep reinforcement learning", 2016](https://arxiv.org/abs/1509.02971)
+  * Implemented action repeat, experience replay memory and fixed targets for Actor/Critic Networks with soft update.
+  * Define ['Take off' task](https://github.com/AdalbertoCq/Deep-Learning-Nanodegree-Udacity/blob/master/Reinforcement%20Learning/Quadcopter%20Project%20Actor-Critic%20RL/task.py) for the drone agent to solve, implementing the rewards function for it.
+  * The drone is able to learn how to take off after 55 Episodes.
